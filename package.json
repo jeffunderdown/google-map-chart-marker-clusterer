@@ -1,0 +1,31 @@
+{
+  "name": "google-map-chart-marker-clusterer",
+  "version": "1.0.0",
+  "description": "Google Map Chart Marker Clusterer With Donut Charts",
+  "main": "chart-markerclusterer.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffunderdown/google-map-chart-marker-clusterer.git"
+  },
+  "keywords": [
+    "google",
+    "maps",
+    "chart",
+    "donut",
+    "chart",
+    "clusterer"
+  ],
+  "author": "jeffrey underdown",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeffunderdown/google-map-chart-marker-clusterer/issues"
+  },
+  "homepage": "https://github.com/jeffunderdown/google-map-chart-marker-clusterer#readme"
+}
